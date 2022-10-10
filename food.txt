@@ -1,0 +1,43 @@
+Teriyaki:Technique:Japan
+Samgyeopsal:Pork Dish:South Korea
+Sukiyaki:Beef Dish:Japen
+Chow Mein:Noodle Dish:China
+Daifuku:Dessert:Japan
+Shaobing:Flatbread:China
+Tteok:Rice Dish:South Korea
+Tteokbokki:Rice Dish:South Korea
+Teppanyaki:Barbecue:Japan
+Kare:Stew:Japan
+Kushiyaki:Barbecue:Japan
+Yakisoba:Noodle Dish:Japan
+Nigiri:Rice Dish:Japan
+Satay:Meat Dish:Indonesia
+Banchan:Ritual:South Korea
+Jeon:Pancake:South Korea
+Miso Soup:Soup:Japan
+Kimbap:Rice Dish:South Korea
+Spring Rolls:Appetizer:China
+Pad Thai:Noodle Dish:Thailand
+Mooncake:Sweet Pastry:China
+Bibimbap:Rice Dish:South Korea
+Bulgogi:Meat Dish:South Korea
+Tonkatsu:Pork Dish:Japan
+Wonton:Dumplings:China
+Dashi:Soup:Japan
+Pho:Noodle Soup:Vietnam
+Shabu-shabu:Meat Dish:Japan
+Wagashi:Dessert:Japan
+Gyoza:Dumplings:Japan
+Baozi:Dumplings:China
+Kimchi:Pickling:South Korea
+Onigiri:Rice Dish:Japan
+Mochi:Dessert:Japan
+Yakitori:Chicken Dish:Japan
+Jiaozi:Dumplings:China
+Sashimi:Seafood:Japan
+Yakiniku:Barbecue:Japan
+Ramen:Noodle Dish:Japan
+Sushi:Rice Dish:Japan
+tallerken:hjemmemad:DK
+disk:type:ori
+disk:typee:orignn
