@@ -38,6 +38,3 @@ Sashimi:Seafood:Japan
 Yakiniku:Barbecue:Japan
 Ramen:Noodle Dish:Japan
 Sushi:Rice Dish:Japan
-tallerken:hjemmemad:DK
-disk:type:ori
-disk:typee:orignn
